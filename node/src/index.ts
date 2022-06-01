@@ -12,4 +12,4 @@ app.listen(PORT, () => {
 });
 console.log("GitHub Workflow is fine.");
 console.log("The app is running");
-console.log("Finish test auto deploy docker and actions github push to vps");
+console.log("Finish test1");
