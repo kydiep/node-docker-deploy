@@ -12,4 +12,4 @@ app.listen(PORT, () => {
 });
 console.log("GitHub Workflow is fine.");
 console.log("The app is running");
-console.log("Finish test1");
+console.log("Finish test2");
